@@ -5,7 +5,7 @@ let d;//declaration de la variable d (sans initialisation donc d=undefined affec
     console.log('d',d);
     //variables et hoisting (la remontee)
     // console.log('x',x);//erreur , x n'est pas encore declaree
-    
+    // editeur de code source : IDE 
 let x=10;
 console.log('y',y);//y = undefined
 var y=9;// y=9
